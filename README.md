@@ -2,7 +2,7 @@
 
 I am currently a sophomore studying and obtaining a Bachelor's Degree in Computer Science at **Purdue University**.
 
-My interests within the industry lie in **fullstack development**. On the frontend, I enjoy creating beautiful and seamless user experiences and on the backend I enjoy working with databases and optimizing them.
+My interests within the industry lie in **full stack development**. On the frontend, I enjoy creating beautiful and seamless user experiences and on the backend I enjoy working with databases and optimizing them.
 
 Aside from the industry, my interests lie in several activities: weight lifting, personal finance, poker, the stock market, and more recently hiking.
 
