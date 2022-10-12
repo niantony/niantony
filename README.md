@@ -1,6 +1,6 @@
 ### Hi there 👋! I'm Antony
 
-I am a rising junior studying and obtaining a Bachelor's Degree in Computer Science at **Purdue University**.
+I am a junior studying and obtaining a Bachelor's Degree in Computer Science at **Purdue University**.
 
 My interests within the industry lie in **full stack development**. On the frontend, I enjoy creating beautiful and seamless user experiences and on the backend I enjoy working with databases and optimizing them.
 
